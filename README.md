@@ -96,4 +96,4 @@ Superstore-Sales-Analysis/
 Simerpreet Kaur 
 Aspiring Data Analyst | Excel • SQL • Power BI • Python  
 https://www.linkedin.com/in/simer-preet-kaur/ 
-[GitHub Profile](#)
+https://github.com/Simer45
