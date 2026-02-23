@@ -94,6 +94,9 @@ Superstore-Sales-Analysis/
 ## 👤 Author
 
 Simerpreet Kaur 
-Data Analyst | Excel • SQL • Power BI • Python  
+
+Data Analyst | Excel • SQL • Power BI • Python 
+
 https://www.linkedin.com/in/simer-preet-kaur/ 
+
 https://github.com/Simer45
